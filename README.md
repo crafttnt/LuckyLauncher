@@ -1,6 +1,6 @@
 <H1 align="center">luckyLauncher</H1>
 
-<img src="https://github.com/MojoLauncher/MojoLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="150" height="150" alt="MojoLauncher logo">
+<img src="https://github.com/crafttnt/LuckyLauncher/blob/main_v3/app_pojavlauncher/src/main/assets/lucky%20block.png" align="left" width="150" height="150" alt="MojoLauncher logo">
 
 [![Android CI](https://github.com/MojoLauncher/MojoLauncher/workflows/Android%20CI/badge.svg)](https://github.com/crafttnt/Lucky-launcher/actions)
 [![Discord](https://img.shields.io/discord/1365346109131722753.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/VHdwQFsaGX)
